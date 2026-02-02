@@ -1,0 +1,11 @@
+,,0
+income,id,0.615281352525562
+id,income,0.615281352525562
+age,signup_day,-0.2191112776213747
+signup_day,age,-0.2191112776213747
+income,signup_day,-0.31490752834918556
+signup_day,income,-0.31490752834918556
+id,signup_day,-0.5027920893698683
+signup_day,id,-0.5027920893698683
+signup_month,signup_day,-0.7664071208681287
+signup_day,signup_month,-0.7664071208681287
